@@ -1,8 +1,10 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Assets\sheji.js">
     <Files>
       <File FileName="Assets\sheji.js" Line="13" Column="59" />
+      <File FileName="Assets\xh.js" Line="4" Column="21" />
+      <File FileName="Assets\sheji.js" Line="11" Column="23" />
       <File FileName="Assets\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
